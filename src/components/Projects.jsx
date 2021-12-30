@@ -22,7 +22,7 @@ const Projects = () => {
         </a>
       </p>
       <p>
-        <a href="https://github.com/GioZhorzholiani3/Routing">
+        <a href="https://github.com/GioZhorzholiani3/my-app">
           routing
         </a>
       </p>
